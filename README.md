@@ -7,6 +7,6 @@ $ pkg install nano
 $ pkg install python2
 $ pkg install php
 $ pkg install git
-$ git clone https://github.com/Alafasy441/HackFb.py
+$ git clone https://github.com/Alafasy441/hackFb.py
 $ Is
-$ python2 HackFb.py
+$ python2 hackFb.py
