@@ -1,7 +1,7 @@
 # Hackfb.py
 
 $ pkg update && pkg upgrade
-$ pkg install mechanize
+$ pip2 install mechanize
 $ pkg install request
 $ pkg install nano
 $ pkg install python2
